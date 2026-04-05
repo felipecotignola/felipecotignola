@@ -1,8 +1,5 @@
 # Felipe Cotignola
 
-🎓 Computer Science student focused on building strong fundamentals in programming and problem solving.
-
-I am a highly curious and disciplined learner, constantly pushing myself to become extremely skilled in Computer Science.
 
 ---
 
