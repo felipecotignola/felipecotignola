@@ -1,16 +1,48 @@
-## Hi there 👋
+# Felipe Cotignola
 
-<!--
-**felipecotignola/felipecotignola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student focused on building strong fundamentals in programming and problem solving.
 
-Here are some ideas to get you started:
+I am a highly curious and disciplined learner, constantly pushing myself to become extremely skilled in Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+* C
+* C++
+* Java
+
+---
+
+## 🧠 Current Focus
+
+* Data Structures and Algorithms
+* Problem Solving
+* Writing clean and efficient code
+* Building strong logical thinking
+
+---
+
+## 🚀 Goals
+
+* Become highly skilled in Computer Science fundamentals
+* Master problem solving and algorithmic thinking
+* Build solid and consistent coding habits
+
+---
+
+## 📚 What I'm Doing
+
+* Practicing coding daily
+* Studying core concepts deeply (not just surface-level)
+* Working on improving logic and problem-solving skills
+
+---
+
+## 📌 About Me
+
+I believe consistency and discipline beat talent.
+My goal is not just to learn programming, but to truly understand how things work at a deep level.
+
+---
+
