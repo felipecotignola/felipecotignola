@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Felipe! A Computer Science student at **PUC Minas** in Belo Horizonte, Brazil.
 
-<!--
-**felipecotignola/felipecotignola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What drives me
 
-Here are some ideas to get you started:
+I want to be **exceptional** at what I do. My goal is to extract the maximum out of my potential.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where I'm headed
+
+- 🎯 Become an excellent computer scientist
+- 🤖 Work in the field of AI
+- 🤝 Build a strong network and keep learning from people ahead of me
+
+## Tech
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+## Let's connect
+
+- GitHub: [@felipecotignola](https://github.com/felipecotignola)
