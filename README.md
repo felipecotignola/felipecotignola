@@ -23,5 +23,3 @@ I want to be **exceptional** at what I do. My goal is to extract the maximum out
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 ## Let's connect
-
-- GitHub: [@felipecotignola](https://github.com/felipecotignola)
