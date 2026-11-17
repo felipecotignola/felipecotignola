@@ -1,4 +1,4 @@
-# Hi, I'm Felipe! A Computer Science student at **PUC Minas** in Belo Horizonte, Brazil.
+# Hi, I'm Felipe 👋
 
 ## What drives me
 
