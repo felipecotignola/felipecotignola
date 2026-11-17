@@ -22,4 +22,9 @@ I want to be **exceptional** at what I do. My goal is to extract the maximum out
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
+## Currently working on
+
+- 📚 A **private repository** that holds all my studies throughout college
+- 🚀 I plan to publish **personal projects** here over time, so stay tuned
+
 ## Let's connect
