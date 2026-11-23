@@ -6,9 +6,9 @@ I want to be **exceptional** at what I do. My goal is to extract the maximum out
 
 ## Where I'm headed
 
-- 🎯 Become an excellent computer scientist
-- 🤖 Work in the field of AI
-- 🤝 Build a strong network and keep learning from people ahead of me
+-  Become an excellent computer scientist
+-  Work in the field of AI
+-  Build a strong network and keep learning from people ahead of me
 
 ## Tech
 
