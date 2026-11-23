@@ -24,7 +24,7 @@ I want to be **exceptional** at what I do. My goal is to extract the maximum out
 
 ## Currently working on
 
-- 📚 A **private repository** that holds all my studies throughout college
-- 🚀 I plan to publish **personal projects** here over time, so stay tuned
+-  A **private repository** that holds all my studies throughout college
+-  I plan to publish **personal projects** here over time, so stay tuned
 
 ## Let's connect
